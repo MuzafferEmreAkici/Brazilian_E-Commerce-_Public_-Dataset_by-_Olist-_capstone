@@ -31,5 +31,4 @@ Payment Analysis:
 - Analysis of successful payments and installment payments.
 - Identification and analysis of reasons for payment failures.
 
-### Usage
-This translation is a verbatim representatione-_Public_-Dataset_by-_Olist-_capstone
+
